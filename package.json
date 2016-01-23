@@ -1,0 +1,22 @@
+{
+  "name": "react-hello-world",
+  "version": "0.0.0",
+  "description": "A quick tutorial on React environment setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Behan",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjmax75/react-hello-world.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial"
+  ],
+  "bugs": {
+    "url": "https://github.com/jjmax75/react-hello-world/issues"
+  }
+}
