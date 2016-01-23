@@ -18,5 +18,18 @@
   ],
   "bugs": {
     "url": "https://github.com/jjmax75/react-hello-world/issues"
+  },
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "build": "webpack -p"
+  },
+  "dependencies": {
+    "webpack": "~1.12.11",
+    "babel-core": "~6.4.5",
+    "babel-loader": "~6.2.1",
+    "babel-preset-es2015": "~6.3.13",
+    "babel-preset-react": "~6.3.13",
+    "react-dom": "~0.14.6",
+    "react": "~0.14.6"
   }
 }
